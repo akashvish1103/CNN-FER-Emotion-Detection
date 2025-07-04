@@ -1,6 +1,5 @@
 # CNN-FER-Emotion-Detection
 ![Alt Text](https://projectmaker.in/admin/product/emotion-Recognition-system-using-raspberry-pi.webp)
-![Online Image](https://example.com/image.png)
 
 Goal : Emotion Detection ('Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral')
 

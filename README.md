@@ -11,7 +11,7 @@ After that I saved both models, and then used it to predict emotions from the li
 
 Accuracy : 75 %
 
-Trained Model atteched in the repo :
-CNN saved model --> cnn_svm_FER_model.h5 
+Trained Model atteched in the repo :  
+CNN saved model --> cnn_svm_FER_model.h5  
 SVM saved model --> svm_model.pkl
 

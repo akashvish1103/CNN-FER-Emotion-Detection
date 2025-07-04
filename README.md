@@ -1,4 +1,5 @@
 # CNN-FER-Emotion-Detection
+![Alt Text](path = https://projectmaker.in/admin/product/emotion-Recognition-system-using-raspberry-pi.webp)
 
 Goal : Emotion Detection ('Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral')
 
@@ -9,3 +10,4 @@ I trained a CNN and Extracted Feature from CNN, and then feed it into a SVM for 
 After that I saved both models, and then used it to predict emotions from the live webcam feed.
 
 Accuracy : 75 %
+
